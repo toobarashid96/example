@@ -13,3 +13,5 @@ Doris
 quick check!
 
 rstudio check!
+
+longleaf check!
